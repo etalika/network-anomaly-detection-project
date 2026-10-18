@@ -1,0 +1,64 @@
+# --- OS Files ---
+.DS_Store
+Thumbs.db
+Desktop.ini
+
+# --- IDEs & Editors ---
+.vscode/
+.idea/
+.vs/
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+
+# --- Python & Venv ---
+venv/
+env/
+.env
+.venv/
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# --- Unity ---
+/[Ll]ibrary/
+/[Tt]emp/
+/[Oo]bj/
+/[Bb]uilds/
+/[Bb]uild/
+/[Ll]ogs/
+/[Mm]emoryCaptures/
+/[Uu]ser[Ss]ettings/
+*.pid
+*.csproj
+*.unityproj
+*.sln
+*.suo
+*.tmp
+*.user
+*.userprefs
+*.pid
+*.booproj
+*.svd
+*.pdb
+*.mdb
+*.opendb
+*.VC.db
+
+# --- Go (Golang) ---
+# Binaries
+bin/
+pkg/
+# Executables
+*.exe
+*.exe~
+*.dll
+*.so
+*.dylib
+# Test binary
+*.test
+
+# --- Version Control ---
+.git/
